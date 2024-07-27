@@ -1,7 +1,6 @@
 # barkodscanner
 
-A new Flutter project.
-
+In this Flutter application, the simple_barcode_scanner library is used to scan QR and barcodes and search them from the internet.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
