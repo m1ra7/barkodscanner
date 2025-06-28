@@ -6,10 +6,10 @@
 ## Screenshorts
 <p>
   <img src="preview/preview1.jpeg" width="220"/>
-  <img src="preview/preview2.png" width="220"/>
-  <img src="preview/preview3.png" width="220"/>
-  <img src="preview/preview4.png" width="220"/>
-  <img src="preview/preview5.png" width="220"/>
+  <img src="preview/preview2.jpeg" width="220"/>
+  <img src="preview/preview3.jpeg" width="220"/>
+  <img src="preview/preview4.jpeg" width="220"/>
+  <img src="preview/preview5.jpeg" width="220"/>
 </p>
 
 
